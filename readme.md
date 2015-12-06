@@ -21,7 +21,8 @@ The following Additional functionality is implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://github.com/hitmeet5/InstagramClient/blob/master/InstagramClient.gif
+<img src='https://github.com/hitmeet5/InstagramClient/blob/master/InstagramClient.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 ## License
 
